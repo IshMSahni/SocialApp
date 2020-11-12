@@ -1,0 +1,27 @@
+Column(children: <Widget>[
+                                              Container(
+
+                                                child: Column(
+                                                  children: <Widget>[
+                                                    Card(
+                                                      //image: NetworkImage('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.e2save.com%2Fimages%2Fcommunity%2F2015%2F02%2FCrazy-Frog.jpg&f=1&nofb=1');
+                                                    ),
+                                                    Text('Check out this Crazy Frog Video!',
+                                                      style: TextStyle(
+                                                        fontWeight: FontWeight.bold,
+                                                        fontSize: 10.0,
+                                                        color: Colors.black,
+                                                      ),
+                                                    ),
+                                                    SizedBox(height: 5.0),
+                                                    Text('This was my favorite video today, I thought it was great how this frog can dance so well. Oh and the song slaps.',
+                                                      style: TextStyle(
+                                                        fontWeight: FontWeight.bold,
+                                                        fontSize: 12.0,
+                                                        color: Colors.black,
+                                                      ),
+                                                    ),
+                                                  ],
+                                                ),
+                                              ),
+                                            ],)
